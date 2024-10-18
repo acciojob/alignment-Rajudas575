@@ -16,6 +16,20 @@ body {
 		}
 		table{
 			border:1px solid rgb(0, 0, 0);
+			Spacing: 1px; 
+			Padding: 1px;
+		}
+		#t11{
+			text-align:left;
+		}
+		
+		#t21{
+			colspan="2";
+			text-align:left;
+		}
+		#t31{
+			colspan="2";
+			text-align:left;
 		}
         .right {
             text-align: right;
