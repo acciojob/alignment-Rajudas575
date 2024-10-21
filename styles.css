@@ -25,7 +25,7 @@ body {
 		}
 		
 		#t21{
-			colspan="6";
+			colspan:"6";
 			height:10px;
 		}
 		#t31{
